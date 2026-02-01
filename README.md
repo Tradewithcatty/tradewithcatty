@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TradeWithCatty Investment and Recovery Limited</title>
+</head>
+<body style="font-family: Arial, sans-serif; max-width: 700px; margin: auto; padding: 40px;">
+  <h1>TradeWithCatty Investment and Recovery Limited</h1>
+  <p><strong>Professional Investment Management & Funds Recovery Solutions</strong></p>
+
+  <h2>About Us</h2>
+  <p>
+    TradeWithCatty Investment and Recovery Limited provides professional support in investment management and funds recovery. 
+    Our mission is to help clients navigate complex financial situations safely and efficiently, focusing on transparency, due diligence, and structured strategies.
+  </p>
+
+  <h2>Our Services</h2>
+  <ul>
+    <li>Investment advisory and monitoring</li>
+    <li>Funds recovery from fraudulent or unauthorized transactions</li>
+    <li>Risk assessment and mitigation strategies</li>
+    <li>Consulting on secure investment opportunities</li>
+  </ul>
+
+  <h2>Contact</h2>
+  <p>Email: tradewithcatty@outlook.com</p>
+  <p>Phone: +1 469 490 1829</p>
+  <p>Telegram: +1 469 490 1829</p>
+
+  <h2>Disclaimer</h2>
+  <p>
+    TradeWithCatty Investment and Recovery Limited does not guarantee recovery of funds or investment returns. 
+    All services are provided based on professional assessment and due diligence. Clients are advised to act prudently and verify all information.
+  </p>
+</body>
+</html>
